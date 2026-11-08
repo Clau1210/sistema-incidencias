@@ -57,3 +57,8 @@ Permite identificar y corregir errores oportunamente, evitando que los problemas
 
 - Repositorio: https://github.com/Clau1210/sistema-incidencias
 - Ejecuciones: https://github.com/Clau1210/sistema-incidencias/actions
+## 8. Participación del colaborador
+
+**Mariano Figueroa - marianofigueroa161-byte**
+
+Participé en la revisión de la documentación del proyecto Sistema de Incidencias, verificando la descripción de sus funcionalidades, las pruebas automatizadas y la configuración de integración continua mediante GitHub Actions. Asimismo, colaboré en la actualización del archivo README.md para mantener organizada la información del proyecto.
